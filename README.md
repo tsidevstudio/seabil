@@ -1,54 +1,54 @@
 # Seabil
 
-Seabil is an Android subscription tracker designed to help users keep recurring payments organized and easier to review.
+**Subscription Tracker for Android**
 
-It focuses on simple subscription tracking, local control and practical reminders without unnecessary complexity.
+Seabil is part of the TSI Dev Studio Android portfolio.
 
-## Features
+## What it does
 
-- Track recurring subscriptions
-- Renewal and payment reminders
-- Smart Paste for faster subscription entry
-- Manual and scheduled backup
-- CSV export
-- Home-screen widget
-- Local-first design
+- Track subscriptions in one place
+- Monitor recurring costs
+- Keep important subscription details organized
+- Use Smart Paste where supported
+- Backup and restore supported data
+- CSV support where available
+- Home-screen widget support
+- Free tier with limited subscriptions
+- Lifetime unlock for expanded use
+
+## Product principles
+
+- Simple recurring-cost visibility
+- Local-first where practical
 - No unnecessary account requirement
-- Clear overview of recurring costs
-- Simple subscription management
+- One-time ownership option
 
-## Free and Lifetime
+## Public documentation
 
-Seabil includes a free tier with support for up to 3 subscriptions.
+| Document | Purpose |
+| --- | --- |
+| [Getting Started](docs/getting-started.md) | Public setup and usage guidance |
+| [Backup And Export](docs/backup-and-export.md) | Public user-facing documentation |
+| [Troubleshooting](docs/troubleshooting.md) | Public user-facing documentation |
+| [Security Policy](SECURITY.md) | Responsible private security reporting |
+| [Support](SUPPORT.md) | Support and official contact channels |
+| [Changelog](CHANGELOG.md) | Public product changes |
 
-A Lifetime unlock is available for users who want full access without a recurring subscription.
+## Official links
 
-## Privacy approach
+- Website: https://tsidevstudio.com/apps/seabil
+- TSI Dev Studio: https://tsidevstudio.com
 
-Seabil is designed around local control of personal subscription data.
+## About this repository
 
-The app focuses on:
+This repository is for public product information, documentation, verification links and release-related resources.
 
-- Minimal data collection
-- No unnecessary cloud dependence
-- No unnecessary accounts
-- Local storage where practical
-- Clear ownership of personal data
+Unless explicitly stated otherwise, the application source code is not published here.
 
-## TSI Dev Studio
+Seabil is a personal organization tool. Public security documentation is limited to responsible reporting and safe user-facing guidance.
 
-Seabil is developed by TSI Dev Studio, an independent Android developer focused on practical, privacy-conscious and local-first mobile apps.
+## Developer
 
-Official website:
+**TSI Dev Studio**
 
 https://tsidevstudio.com
-
-Other projects include Xsilent, Nullun, MicutVault, AnonyPic, Zekro, Zizly, Annum and HEZX.
-
-## Contact
-
-General: contact@tsidevstudio.com
-
-App support: support@tsidevstudio.com
-
-Press & media: press@tsidevstudio.com
